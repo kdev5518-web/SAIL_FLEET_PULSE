@@ -1,0 +1,16 @@
+# Python Virtual Environments & Cache
+backend/venv/
+venv/
+__pycache__/
+*.pyc
+
+# Node Modules & Next.js Build Artifacts
+frontend/node_modules/
+frontend/.next/
+node_modules/
+.next/
+
+# Environment Variables & OS Files
+.env
+.DS_Store
+Thumbs.db

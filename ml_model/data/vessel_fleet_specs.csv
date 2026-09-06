@@ -1,0 +1,11 @@
+vessel_class,dwt_capacity,req_draft_m,req_loa_m,req_beam_m,speed_knots,fuel_sea_tons_day,fuel_port_tons_day,charter_cost_usd_day
+Handysize,35000,10.0,180,28,13.0,22.0,3.5,12500
+Handymax,45000,11.0,185,30,13.5,25.0,3.8,14000
+Supramax,55000,11.5,190,32,14.0,28.0,4.0,16500
+Ultramax,64000,12.2,200,32,14.2,30.0,4.2,18000
+Panamax,75000,13.5,225,32,14.5,35.0,4.5,21000
+Kamsarmax,82000,14.1,229,32,14.5,38.0,4.8,23000
+Post-Panamax,95000,14.8,240,38,14.8,42.0,5.0,25000
+Mini-Cape,110000,15.5,255,43,15.0,46.0,5.5,28000
+Capesize,150000,17.0,290,45,15.0,52.0,6.0,34000
+Newcastlemax,205000,18.2,300,50,15.2,58.0,6.5,40000
