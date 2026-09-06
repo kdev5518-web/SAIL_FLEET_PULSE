@@ -3,9 +3,9 @@ FROM python:3.10-slim
 
 WORKDIR /app
 
-# Install Node.js for Next.js frontend build
+# Install Node.js 20 for Next.js frontend build
 RUN apt-get update && apt-get install -y curl && \
-    curl -fsSL https://deb.nodesource.com/setup_18.x | bash - && \
+    curl -fsSL https://deb.nodesource.com/setup_20.x | bash - && \
     apt-get install -y nodejs
 
 # Copy backend files and install dependencies
